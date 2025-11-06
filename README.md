@@ -10,7 +10,7 @@
 ### ⚡ **TOP 23.5% - CLIMBING THE RANKS!** ⚡ 
 
 > *"Second competition, sharper skills, BETTER RESULTS!"*
-
+ 
 **29 Submissions | Advanced Stacking | Feature Engineering Mastery**
  
 </div>
@@ -23,7 +23,7 @@
 
 ```
 📊 CURRENT STATUS: BUILDING FOUNDATIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 🎖️  Novice        ✅ COMPLETED
 🥉  Contributor   ✅ COMPLETED  
@@ -54,7 +54,7 @@
 ## 🔥 TEAM PHOENIX ALGORITHMS - THE EVOLUTION CONTINUES
 
 Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED. This time? **Top 23.5%!** We've improved our ranking by **24.8 percentage points** and we're just getting started!
-
+ 
 ### 👥 THE BATTLE-HARDENED SQUAD
 
 <table>
@@ -110,7 +110,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 **Duration:** October 1-31, 2025 (31 days of intense optimization)  
 **Metric:** RMSE (Root Mean Squared Error) - *Precision is everything*  
 **Ultimate Goal:** Expert → Grandmaster Status on Kaggle  
-
+ 
 ---
 
 ## 🎯 BATTLEFIELD DOMINANCE
