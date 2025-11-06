@@ -10,7 +10,7 @@
 ### ⚡ **TOP 23.5% - CLIMBING THE RANKS!** ⚡ 
 
 > *"Second competition, sharper skills, BETTER RESULTS!"*
- 
+  
 **29 Submissions | Advanced Stacking | Feature Engineering Mastery**
  
 </div>
@@ -40,7 +40,7 @@
 - 🎯 Competition #3: Top 10% - Expert Tier Target
 - 🏆 Competition #4-5: Podium Finish - Expert Unlocked
 
-### **Path to Grandmaster:**
+### **Path to Grandmaster:** 
 - 🥇 Multiple Gold Medals Required
 - 🥈 Consistent Top 10% Finishes
 - 👑 Solo & Team Competition Mastery
@@ -68,7 +68,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 </td>
 <td align="center" width="25%">
 <img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br />
-<b>🔧 Rakesh Kolipaka</b><br />
+<b>🔧 Rakesh Kolipaka</b><br /> 
 <i>Data Scientist</i><br />
 <i>Optimization Master</i><br /><br />
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
@@ -112,7 +112,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 **Ultimate Goal:** Expert → Grandmaster Status on Kaggle  
  
 ---
-
+ 
 ## 🎯 BATTLEFIELD DOMINANCE
 
 ### 📈 **THE LEADERBOARD STATUS**
@@ -140,7 +140,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 - **Strategy:** Alternative feature combinations
 - **Status:** *CONSISTENT EXCELLENCE*
 
----
+--- 
 
 ## 🛣️ THE DATA LANDSCAPE - FEATURES
 
